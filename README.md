@@ -1,6 +1,7 @@
 # About this simple_form React App
 
-**What`s Complex About Forms?**
+### What`s Complex About Forms?
+
 Forms might be simple and trivial but they are not.
 Forms can actually be complex from a developer`s point of view because forms and its inputs can assume a broad variety of different states. 
 One or more inputs could be invalid or valid.
