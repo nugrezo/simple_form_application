@@ -47,3 +47,12 @@ button:active {
 .form-actions button {
   margin-left: 1rem;
 }
+
+.error_text {
+  color: #b40e0e;
+}
+
+.form_control.invalid input {
+  border-color: red;
+  background: #ffd7d7;
+}
